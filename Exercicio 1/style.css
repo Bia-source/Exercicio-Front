@@ -1,0 +1,20 @@
+#icones{
+    height: 20px;
+    width: 20px;
+}
+
+#menuNav{
+    background-color: #34495E;
+
+}
+
+li{
+    list-style: none;
+    color: white;
+
+}
+
+li:hover{
+    font-size: 15px;
+    color: red;
+}
